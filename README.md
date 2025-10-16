@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Lucas Oliveira, tenho 18 anos nasci na cidade de Piraju-Sp e atualmente moro em Fartura-Sp. Concluí o ensino médio na escola Marcos ribeiro. Atualmente, estou cursando Engenharia de Software na Unifio. Sou apaixonado por tecnologia desde de criança onde montei meu primeiro computador com 10 anos, atualmente estou me aprofundando na liguagem Java, mas procuro me aprofundar em outros conhecimentos tambem! Estou com um projeto de compartilhar meu conhecimento e etapas de aprendizado no meu canal: "[Lucas Oliveira](https://youtube.com/@lucas_oliveira_09)", onde procuro mostrar mais minha personalidade e ampliar meu curriculo, e também através do Instagram, com o perfil chamado "[lucas_oliveira0911](https://www.instagram.com/lucas_oliveira0911)".
+Me chamo Lucas Oliveira, tenho 18 anos nasci na cidade de Piraju-Sp e atualmente moro em Fartura-Sp. Concluí o ensino médio na escola Marcos ribeiro. Atualmente, estou cursando Engenharia de Software na Unifio. Sou apaixonado por tecnologia desde de criança onde montei meu primeiro computador com 10 anos, atualmente estou me aprofundando na liguagem Java e estou buscando uma oportunidade de emprego como estagiario na area para ampliar meu conhecimento! Estou com um projeto de compartilhar meu conhecimento e etapas de aprendizado no meu canal: "[Lucas Oliveira](https://youtube.com/@lucas_oliveira_09)", onde procuro mostrar mais minha personalidade e ampliar meu curriculo, e também através do Instagram, com o perfil chamado "[lucas_oliveira0911](https://www.instagram.com/lucas_oliveira0911)".
 
 <p align="left"> 
     <a href="https://youtube.com/@dev_luquinha?si=32azHUfnOVIAEs0x">

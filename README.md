@@ -5,6 +5,20 @@
 Me chamo Lucas Oliveira, tenho 18 anos nasci na cidade de Piraju-Sp e atualmente moro em Fartura-Sp. Concluí o ensino médio na escola Marcos ribeiro. Atualmente, estou cursando Engenharia de Software na Unifio. Sou apaixonado por tecnologia desde de criança onde montei meu primeiro computador com 10 anos, atualmente estou me aprofundando na liguagem Java, mas procuro me aprofundar em outros conhecimentos tambem! Estou com um projeto de compartilhar meu conhecimento e etapas de aprendizado no meu canal: "[Lucas Oliveira](https://youtube.com/@lucas_oliveira_09)", onde procuro mostrar mais minha personalidade e ampliar meu curriculo, e também através do Instagram, com o perfil chamado "[lucas_oliveira0911](https://www.instagram.com/lucas_oliveira0911)".
 
 <p align="left"> 
+    <a href="https://youtube.com/@dev_luquinha?si=32azHUfnOVIAEs0x">
+        <img 
+            alt="youtube subscribers" 
+            title="Inscreva-se no meu canal" 
+            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCqRJtRQ6gNhmToQDquZz_Sw?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
+        />
+    </a>
+    <a href="https://youtube.com/@dev_luquinha?si=32azHUfnOVIAEs0x">
+        <img 
+            alt="youtube views" 
+            title="Vizualizações no YouTube" 
+            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCqRJtRQ6gNhmToQDquZz_Sw?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
+        />
+    </a> 
     <a href="https://github.com/LucasOliveira09?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 

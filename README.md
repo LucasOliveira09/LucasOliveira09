@@ -3,7 +3,7 @@
 **`Desenvolvedor FullStack`**
 
 Me chamo Lucas Oliveira, tenho 18 anos atualmente residuo na cidade de Fartura-Sp. Concluí o ensino médio na escola Marcos ribeiro e atualmente estou cursando Engenharia de Software pela Unifio. Sou apaixonado por tecnologia desde de criança onde montei meu primeiro computador com 10 anos, atualmente estou me aprofundando na liguagem Java e estou buscando uma oportunidade de emprego como estagiario na area para ampliar meu conhecimento! Estou com um projeto de compartilhar meu conhecimento e etapas de aprendizado no meu canal: "[Lucas Oliveira](https://youtube.com/@lucas_oliveira_09)", onde procuro mostrar mais minha personalidade e ampliar meu curriculo, e também através do Instagram, com o perfil chamado "[lucas_oliveira0911](https://www.instagram.com/lucas_oliveira0911)".
-
+<br><br>
 <p align="left"> 
     <a href="https://youtube.com/@dev_luquinha?si=32azHUfnOVIAEs0x">
         <img 
@@ -18,7 +18,7 @@ Me chamo Lucas Oliveira, tenho 18 anos atualmente residuo na cidade de Fartura-S
             title="Vizualizações no YouTube" 
             src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCqRJtRQ6gNhmToQDquZz_Sw?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
         />
-    </a> 
+    </a> <br><br>
     <a href="https://github.com/LucasOliveira09?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
@@ -39,6 +39,14 @@ Me chamo Lucas Oliveira, tenho 18 anos atualmente residuo na cidade de Fartura-S
 
 ### 🤖 Linguagens e Tecnologias
 
+<img 
+    align="left" 
+    alt="Java" 
+    title="Java"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+/>
 <img 
     align="left" 
     alt="HTML"
@@ -65,19 +73,11 @@ Me chamo Lucas Oliveira, tenho 18 anos atualmente residuo na cidade de Fartura-S
 />
 <img 
     align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
+    alt="BootStrap"
+    title="BootStrap" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
+    src="https://img.icons8.com/?size=100&id=84710&format=png&color=000000" 
 />
 <img 
     align="left" 
@@ -88,14 +88,7 @@ Me chamo Lucas Oliveira, tenho 18 anos atualmente residuo na cidade de Fartura-S
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
-/>
+
 
 
 <br/>

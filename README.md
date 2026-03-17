@@ -57,11 +57,19 @@ Me chamo Lucas Oliveira, tenho 19 anos atualmente residuo na cidade de Fartura-S
 />
 <img 
     align="left" 
-    alt="CSS" 
-    title="CSS"
+    alt="nuxt" 
+    title="nuxt"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nuxt/nuxt-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="vue" 
+    title="vue"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 <img 
     align="left" 
@@ -69,7 +77,7 @@ Me chamo Lucas Oliveira, tenho 19 anos atualmente residuo na cidade de Fartura-S
     title="JavaScript"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
 />
 <img 
     align="left" 
@@ -77,7 +85,7 @@ Me chamo Lucas Oliveira, tenho 19 anos atualmente residuo na cidade de Fartura-S
     title="Tailwind" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="[https://img.icons8.com/?size=100&id=84710&format=png&color=000000](https://camo.githubusercontent.com/12e0908a160d0454a14dcd647a6f770e31c64088d2dd07e30f08922dc192d4f0/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e406c61746573742f69636f6e732f7461696c77696e646373732f7461696c77696e646373732d6f726967696e616c2e737667)" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
 />
 <img 
     align="left" 

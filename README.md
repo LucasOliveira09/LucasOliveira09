@@ -65,16 +65,16 @@ Me chamo Lucas Oliveira, tenho 19 anos atualmente residuo na cidade de Fartura-S
 />
 <img 
     align="left" 
-    alt="vue" 
-    title="vue"
+    alt="python" 
+    title="python"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 <img 
     align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
+    alt="Typescript" 
+    title="Typescript"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 

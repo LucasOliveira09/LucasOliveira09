@@ -1,123 +1,40 @@
-# 👨🏽‍💻 Lucas Oliveira
-
-**`Desenvolvedor FullStack`**
-
-Me chamo Lucas Oliveira, tenho 19 anos atualmente residuo na cidade de Fartura-Sp. Concluí o ensino médio na escola Marcos ribeiro e atualmente estou cursando Engenharia de Software pela Unifio. Sou apaixonado por tecnologia desde de criança onde montei meu primeiro computador com 10 anos, procuro novas oportuinidades na area, tanto para conquistar a minha meta de iniciar como Junior na programação e evoluir muito na area! Possuo experiencia como estagiario na empresa TadsBR Softwares, onde evolui muito na programação, finalizei meus primeiros sprints e movi meus primeiros cards, aprimorei principalmente a parte de programação profissinal e estruturação de projetos evitando bugs e perca de tempo em funções inuteis, hoje já faço meus projetos de forma muito mais direta e profissional! Estou com um projeto de compartilhar meu conhecimento e etapas de aprendizado no meu canal: "[Lucas Oliveira](https://youtube.com/@lucas_oliveira_09)", onde procuro mostrar mais minha personalidade e ampliar meu curriculo, e também através do Instagram, com o perfil chamado "[lucas_oliveira0911](https://www.instagram.com/lucas_oliveira0911)".
-<br><br>
-<p align="left"> 
-    <a href="https://youtube.com/@dev_luquinha?si=32azHUfnOVIAEs0x">
-        <img 
-            alt="youtube subscribers" 
-            title="Inscreva-se no meu canal" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCqRJtRQ6gNhmToQDquZz_Sw?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
-        />
-    </a>
-    <a href="https://youtube.com/@dev_luquinha?si=32azHUfnOVIAEs0x">
-        <img 
-            alt="youtube views" 
-            title="Vizualizações no YouTube" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCqRJtRQ6gNhmToQDquZz_Sw?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
-        />
-    </a> <br><br>
-    <a href="https://github.com/LucasOliveira09?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/lucasoliveira09?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/LucasOliveira09?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/lucasoliveira09?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/LucasOliveira09/LucasOliveira09/main/assets/banner.png" alt="Lucas Oliveira Banner" width="100%">
 </p>
+
+# Lucas Oliveira
+
+> Software Engineer | Back-End & System Architecture
+
+Estudante de Engenharia de Software na UNIFIO e Estagiário na TadsBR. Atuo no desenvolvimento de APIs RESTful, microsserviços e arquitetura de software escalável, combinando Java, C#, TypeScript e Python com integrações de IA e automação.
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 👨‍💻 Experiência Profissional
 
-<img 
-    align="left" 
-    alt="Java" 
-    title="Java"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="nuxt" 
-    title="nuxt"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nuxt/nuxt-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="python" 
-    title="python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Typescript" 
-    title="Typescript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="TailwindCSS"
-    title="Tailwind" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
+| Empresa | Cargo | Período | Principais Atuações |
+| :--- | :--- | :--- | :--- |
+| **TadsBR** | Estagiário Full Stack | Jan 2026 – Presente | Desenvolvimento e integração de APIs RESTful (C#, JAVA), interfaces web reativas com Nuxt.js/Blazor e desenvolvimento de aplicativos mobile com .NET MAUI. |
 
+---
 
+### 🚀 Projetos em Destaque
 
+*   **[ytdlp-java](https://github.com/LucasOliveira09)** — A ytdlp-java é uma biblioteca em java que permite você baixar, converter e inspecionar áudios e vídeos de mais de 1.000 plataformas com facilidade.  
+    `Python` `Nuxt.js` `TailwindCSS` `LLMs`
+*   **[MailTracer](https://github.com/LucasOliveira09)** — Ferramenta de triagem e análise automatizada de e-mails com integração a modelos Gemini.  
+    `Python` `Gemini API` `Automation`
+*   **[ViziHub](https://github.com/LucasOliveira09)** — Sistema SaaS voltado para automação e prospecção de clientes.  
+    `TypeScript` `NextJS `Web Architecture`
+*   **[NFC Reader API](https://github.com/LucasOliveira09)** — API para integração de leitores NFC aplicados a sistemas de comandas e pulseiras.  
+    `Java` `APIs RESTful`
 
-<br/>
-<br/>
+---
 
-### 📊 Estatísticas
+### 🛠 Habilidades Técnicas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=lucasoliveira09&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasoliveira09&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
+```text
+Backend & Arquitetura :: Java (Spring Boot), C# (.NET), Node.js, Python, PHP, Pascal
+Bancos de Dados      :: PostgreSQL, MySQL, Redis
+Frontend & Web       :: Nuxt.js, Vue.js, TypeScript, TailwindCSS
+DevOps & Ferramentas :: Docker, Git, CI/CD, Arquitetura Limpa, SOLID, Microservices

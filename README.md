@@ -21,7 +21,7 @@ Estudante de Engenharia de Software na UNIFIO e Estagiário na TadsBR. Atuo no d
 ### 🚀 Projetos em Destaque
 
 *   **[ytdlp-java](https://github.com/LucasOliveira09)** — A ytdlp-java é uma biblioteca em java que permite você baixar, converter e inspecionar áudios e vídeos de mais de 1.000 plataformas com facilidade.  
-    `Python` `Nuxt.js` `TailwindCSS` `LLMs`
+    `Java` `FFmpeg`
 *   **[MailTracer](https://github.com/LucasOliveira09)** — Ferramenta de triagem e análise automatizada de e-mails com integração a modelos Gemini.  
     `Python` `Gemini API` `Automation`
 *   **[ViziHub](https://github.com/LucasOliveira09)** — Sistema SaaS voltado para automação e prospecção de clientes.  

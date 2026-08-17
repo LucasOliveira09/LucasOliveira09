@@ -34,7 +34,7 @@ Estudante de Engenharia de Software na UNIFIO e Estagiário na TadsBR. Atuo no d
 ### 🛠 Habilidades Técnicas
 
 ```text
-Backend & Arquitetura :: Java (Spring Boot), C# (.NET), Node.js, Python, PHP, Pascal
+Backend & Arquitetura :: Java (Spring Boot), C# (.NET), Typescript
 Bancos de Dados      :: PostgreSQL, MySQL, Redis
 Frontend & Web       :: Nuxt.js, Vue.js, TypeScript, TailwindCSS
 DevOps & Ferramentas :: Docker, Git, CI/CD, Arquitetura Limpa, SOLID, Microservices

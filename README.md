@@ -25,7 +25,7 @@ Estudante de Engenharia de Software na UNIFIO e Estagiário na TadsBR. Atuo no d
 *   **[MailTracer](https://github.com/LucasOliveira09)** — Ferramenta de triagem e análise automatizada de e-mails com integração a modelos Gemini.  
     `Python` `Gemini API` `Automation`
 *   **[ViziHub](https://github.com/LucasOliveira09)** — Sistema SaaS voltado para automação e prospecção de clientes.  
-    `TypeScript` `NextJS `Web Architecture`
+    `TypeScript` `NextJS` `Web Architecture`
 *   **[NFC Reader API](https://github.com/LucasOliveira09)** — API para integração de leitores NFC aplicados a sistemas de comandas e pulseiras.  
     `Java` `APIs RESTful`
 

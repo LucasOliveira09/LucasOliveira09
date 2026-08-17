@@ -6,7 +6,7 @@
 
 > Software Engineer | Back-End & System Architecture
 
-Estudante de Engenharia de Software na UNIFIO e Estagiário na TadsBR. Atuo no desenvolvimento de APIs RESTful, microsserviços e arquitetura de software escalável, combinando Java, C#, TypeScript e Python com integrações de IA e automação.
+Estudante de Engenharia de Software na UNIFIO e Estagiário na TadsBR. Atuo no desenvolvimento de APIs RESTful, microsserviços e arquitetura de software escalável, atualmente trabalho com linguagens como Java, C# e Typescript, e conhecimento em ferramentas utilizadas para escalar projetos.
 
 ---
 

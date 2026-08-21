@@ -17,9 +17,9 @@
 
 ## Sobre mim
 
-Sou estudante de **Engenharia de Software na UNIFIO** e **Estagiário Full Stack na TadsBR**. Desenvolvo aplicações web, APIs REST e integrações utilizando principalmente Java, C#, TypeScript e Python.
+Sou estudante de **Engenharia de Software na UNIFIO** e **Estagiário Full Stack na TadsBR**. Desenvolvo aplicações web, APIs REST e integrações utilizando principalmente Java, Python e frameworks como Angular e react.
 
-Estou em busca de uma nova oportunidade como **Desenvolvedor de Software Júnior**, onde eu possa contribuir com uma equipe de engenharia, ampliar minha experiência profissional e continuar evoluindo em backend, arquitetura e desenvolvimento full stack.
+Estou em busca de uma nova oportunidade como **Desenvolvedor**, onde eu possa contribuir com uma equipe de engenharia, ampliar minha experiência profissional e continuar evoluindo, arquitetura e desenvolvimento full stack.
 
 Gosto de transformar regras de negócio em software legível e preparado para evoluir. No dia a dia, busco equilibrar velocidade de entrega com arquitetura, segurança, testes e uma boa experiência para quem usa e mantém o produto.
 

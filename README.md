@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/LucasOliveira09/LucasOliveira09/main/assets/banner.png" alt="Lucas Oliveira Banner" width="100%">
+  <img src="https://lubiagency.com.br/banner-lucas.png" alt="Lucas Oliveira Banner" width="100%">
 </p>
 
 # Lucas Oliveira

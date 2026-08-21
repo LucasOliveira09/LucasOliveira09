@@ -60,12 +60,3 @@ Gosto de transformar regras de negócio em software legível e preparado para ev
 **Bacharelado em Engenharia de Software · UNIFIO**
 
 `2025 — 2028`
-
-Projeto integrador: LabsReserver, solução para organizar e automatizar o gerenciamento de salas da faculdade.
-
-## Contato
-
-- Objetivo: **oportunidades como Desenvolvedor de Software Júnior**
-- LinkedIn: [linkedin.com/in/lucas-oliveira09](https://www.linkedin.com/in/lucas-oliveira09/)
-- Portfólio: [lubiagency.com.br](https://lubiagency.com.br/)
-- E-mail: [lucasleiteoliveira09@gmail.com](mailto:lucasleiteoliveira09@gmail.com)

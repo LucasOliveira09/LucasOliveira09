@@ -1,40 +1,71 @@
 <p align="center">
-  <img src="https://lubiagency.com.br/banner-lucas.png" alt="Lucas Oliveira Banner" width="100%">
+  <img src="https://lubiagency.com.br/banner-lucas.png" alt="Banner de Lucas Oliveira" width="100%">
 </p>
 
-# Lucas Oliveira
+<h1 align="center">Lucas Oliveira</h1>
 
-> Software Engineer | Back-End & System Architecture
+<p align="center">
+  <strong>Software Engineer · Full-Stack Developer</strong><br>
+  Backend, APIs e arquitetura de software · Aberto a novas oportunidades.
+</p>
 
-Estudante de Engenharia de Software na UNIFIO e Estagiário na TadsBR. Atuo no desenvolvimento de APIs RESTful, microsserviços e arquitetura de software escalável, atualmente trabalho com linguagens como Java, C# e Typescript, e conhecimento em ferramentas utilizadas para escalar projetos.
+<p align="center">
+  <a href="https://lubiagency.com.br/">Portfólio</a> ·
+  <a href="https://www.linkedin.com/in/lucas-oliveira09/">LinkedIn</a> ·
+  <a href="mailto:lucasleiteoliveira09@gmail.com">E-mail</a>
+</p>
 
----
+## Sobre mim
 
-### 👨‍💻 Experiência Profissional
+Sou estudante de **Engenharia de Software na UNIFIO** e **Estagiário Full Stack na TadsBR**. Desenvolvo aplicações web, APIs REST e integrações utilizando principalmente Java, C#, TypeScript e Python.
 
-| Empresa | Cargo | Período | Principais Atuações |
-| :--- | :--- | :--- | :--- |
-| **TadsBR** | Estagiário Full Stack | Jan 2026 – Presente | Desenvolvimento e integração de APIs RESTful (C#, JAVA), interfaces web reativas com Nuxt.js/Blazor e desenvolvimento de aplicativos mobile com .NET MAUI. |
+Estou em busca de uma nova oportunidade como **Desenvolvedor de Software Júnior**, onde eu possa contribuir com uma equipe de engenharia, ampliar minha experiência profissional e continuar evoluindo em backend, arquitetura e desenvolvimento full stack.
 
----
+Gosto de transformar regras de negócio em software legível e preparado para evoluir. No dia a dia, busco equilibrar velocidade de entrega com arquitetura, segurança, testes e uma boa experiência para quem usa e mantém o produto.
 
-### 🚀 Projetos em Destaque
+## Experiência
 
-*   **[ytdlp-java](https://github.com/LucasOliveira09)** — A ytdlp-java é uma biblioteca em java que permite você baixar, converter e inspecionar áudios e vídeos de mais de 1.000 plataformas com facilidade.  
-    `Java` `FFmpeg`
-*   **[MailTracer](https://github.com/LucasOliveira09)** — Ferramenta de triagem e análise automatizada de e-mails com integração a modelos Gemini.  
-    `Python` `Gemini API` `Automation`
-*   **[ViziHub](https://github.com/LucasOliveira09)** — Sistema SaaS voltado para automação e prospecção de clientes.  
-    `TypeScript` `NextJS` `Web Architecture`
-*   **[NFC Reader API](https://github.com/LucasOliveira09)** — API para integração de leitores NFC aplicados a sistemas de comandas e pulseiras.  
-    `Java` `APIs RESTful`
+### TadsBR Softwares · Estagiário Full Stack
 
----
+`Jan 2026 — atual`
 
-### 🛠 Habilidades Técnicas
+- Desenvolvimento e integração de APIs REST com **C# e Java**.
+- Construção de interfaces reativas com **Nuxt e Blazor**.
+- Desenvolvimento de aplicações com **.NET MAUI**.
+- Implementação de regras de negócio, testes em homologação e práticas de segurança.
+- Participação em produtos como PDV web, encarte digital e sistemas internos para clientes.
 
-```text
-Backend & Arquitetura :: Java (Spring Boot), C# (.NET), Typescript
-Bancos de Dados      :: PostgreSQL, MySQL, Redis
-Frontend & Web       :: Nuxt.js, Vue.js, TypeScript, TailwindCSS
-DevOps & Ferramentas :: Docker, Git, CI/CD, Arquitetura Limpa, SOLID, Microservices
+## Projetos em destaque
+
+| Projeto | O que resolve | Tecnologias |
+| --- | --- | --- |
+| [ytdlp-java](https://github.com/LucasOliveira09/ytdlp-java) | Biblioteca assíncrona para integrar yt-dlp e FFmpeg em aplicações Java. | Java 21, FFmpeg, Virtual Threads |
+| [OnFocus](https://github.com/LucasOliveira09/NoShortVideos) | Extensão para reduzir distrações com bloqueio de vídeos curtos, anúncios e sites. | Chrome Extension, JavaScript, CSS |
+| [SimulaAE](https://www.simulaae.com.br/) | Identifica dificuldades por tipo de questão no ENEM, calcula a nota e entrega um plano de estudos direcionado. | Next.js, React, EdTech |
+| [ViziHub](https://www.vizihub.com.br/) | Encontra negócios locais e automatiza a criação de sites para apresentação e comercialização. | Next.js, React, SaaS |
+| [SkillSwap](https://github.com/LucasOliveira09/Skillswap) | Conecta clientes e prestadores com avaliações, chat e portfólio de serviços. | Plataforma web, UX, Marketplace |
+
+## Stack
+
+| Área | Tecnologias e práticas |
+| --- | --- |
+| **Backend** | Java, Spring Boot, C#, .NET, Node.js, Python, FastAPI, APIs REST |
+| **Frontend** | TypeScript, Vue.js, Nuxt, Blazor, Tailwind CSS |
+| **Dados** | PostgreSQL, MySQL, Redis, Supabase |
+| **Engenharia** | Git, Docker, CI/CD, SOLID, arquitetura limpa, microsserviços, testes e segurança |
+| **IA aplicada** | Gemini API, Claude Code, GitHub Copilot e fluxos com agentes especializados |
+
+## Formação
+
+**Bacharelado em Engenharia de Software · UNIFIO**
+
+`2025 — 2028`
+
+Projeto integrador: LabsReserver, solução para organizar e automatizar o gerenciamento de salas da faculdade.
+
+## Contato
+
+- Objetivo: **oportunidades como Desenvolvedor de Software Júnior**
+- LinkedIn: [linkedin.com/in/lucas-oliveira09](https://www.linkedin.com/in/lucas-oliveira09/)
+- Portfólio: [lubiagency.com.br](https://lubiagency.com.br/)
+- E-mail: [lucasleiteoliveira09@gmail.com](mailto:lucasleiteoliveira09@gmail.com)
